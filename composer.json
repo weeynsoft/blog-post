@@ -1,0 +1,46 @@
+{
+	"name": "weeynsoft/blog-post",
+	"description": "Weeyn Post Module",
+	"license": "MIT",
+	"keywords": [
+		"weeyn",
+		"blog",
+		"post"
+	],
+	"authors": [
+		{
+			"name": "Fahrettin Aksoy",
+			"email": "fahrettin@weeyn.com",
+			"homepage": "https://weeyn.com",
+			"role": "Developer"
+		}
+	],
+	"homepage": "https://weeyn.com",
+	"support": {
+		"email": "dev@weeyn.com",
+		"issues": "https://github.com/WeeynSoft/blog-post/issues",
+		"source": "https://github.com/WeeynSoft/blog-post",
+		"wiki": "https://github.com/WeeynSoft/blog-post/wiki",
+		"docs": "https://docs.weeyn.com/packets/blog-post",
+		"forum": "https://forum.weeyn.com",
+		"chat": "https://slack.weeyn.com"
+	},
+	"type": "library",
+	"require": {
+		"php": "^8.0"
+	},
+	"require-dev": {},
+	"autoload": {
+		"psr-4": {
+			"WeeynSoft\\BlogPost\\": "src/"
+		}
+	},
+	"autoload-dev": {},
+	"minimum-stability": "dev",
+	"prefer-stable": true,
+	"scripts": {},
+	"extra": {},
+	"replace": {},
+	"suggest": {},
+	"config": {}
+}
