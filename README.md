@@ -1,4 +1,4 @@
-# Weeyn Post Module
+# Weeyn Blog Post Module
 Weeyn blog post module
 
 ![Packagist PHP Version](https://img.shields.io/packagist/dependency-v/weeynsoft/blog-post/php)
@@ -7,7 +7,7 @@ Weeyn blog post module
 ![GitHub](https://img.shields.io/github/license/weeynsoft/blog-post)
 
 
-This is the standalone post module of the [Weeyn](https://weeyn.com).
+This is the standalone blog post module of the [Weeyn](https://weeyn.com).
 
 ## Installation
 

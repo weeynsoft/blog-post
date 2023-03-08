@@ -1,6 +1,6 @@
 <?php
 
 return [
-	'name' => 'Weeyn Post Module',
+	'name' => 'Weeyn Blog Post Module',
 	'version' => '1.0.0'
 ];
